@@ -1,7 +1,5 @@
 # Table of contents
 
-* [Floatcoin](README.md)
+## 🌟 getting started
 
-## Floatcoin
-
-* [Overview](floatcoin-1/overview.md)
+* [📖 Why Floatcoin?](README.md)
