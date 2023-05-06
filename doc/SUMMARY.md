@@ -10,3 +10,16 @@
 * [⚖ Stability Mechanism](getting-started/stability-mechanism.md)
 * [💰 Treasury Income](getting-started/treasury-income.md)
 * [🏦 FCC](getting-started/fcc.md)
+* [🤡 TL;DR](getting-started/tl-dr.md)
+* [🗺 Our Future](getting-started/our-future.md)
+
+## 👉 guides
+
+* [🍶 How to...](guides/how-to....md)
+
+## 💾 protocol
+
+* [🏗 Smart Contract Addresses](protocol/smart-contract-addresses.md)
+* [💆♀ Codes and Audit](protocol/codes-and-audit.md)
+* [🔮 Oracles](protocol/oracles.md)
+* [❗ Risks](protocol/risks.md)
