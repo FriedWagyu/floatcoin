@@ -1,5 +1,5 @@
 ---
-description: 'Introducing Floatcoin: An Anti-inflation Coin Protocol Build On Base'
+description: 'Introducing Floatcoin: An Anti-inflation Coin Protocol Build on Base'
 ---
 
 # 📖 Why Floatcoin?
