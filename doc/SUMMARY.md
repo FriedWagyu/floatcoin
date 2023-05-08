@@ -1,6 +1,6 @@
 # Table of contents
 
-## 🌟 getting started
+## getting started
 
 * [📖 Why Floatcoin?](README.md)
 * [👀 Overview](getting-started/overview.md)
@@ -13,11 +13,11 @@
 * [🤡 TL;DR](getting-started/tl-dr.md)
 * [🗺 Our Future](getting-started/our-future.md)
 
-## 👉 guides
+## guides
 
 * [🍶 How to...](guides/how-to....md)
 
-## 💾 protocol
+## protocol
 
 * [🏗 Smart Contract Addresses](protocol/smart-contract-addresses.md)
 * [💆♀ Codes and Audit](protocol/codes-and-audit.md)
