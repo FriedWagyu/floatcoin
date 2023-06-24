@@ -2,7 +2,7 @@
 
 ## getting started
 
-* [📖 Why Floatcoin?](README.md)
+* [📖 Introducing Floatcoin](README.md)
 * [👀 Overview](getting-started/overview.md)
 * [📈 CPI Calculation](getting-started/cpi-calculation.md)
 * [🔱 5 Pools (5LP)](getting-started/5-pools-5lp.md)
