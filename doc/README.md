@@ -24,8 +24,6 @@ It is clear that we need to do something to address the issue of inflation. Gove
 
 Stablecoins are an important component of the crypto world. On the one hand, stablecoins can serve as a measure of value, and on the other hand, they can be used to hedge against price fluctuations in volatile crypto assets. As the overall value of the crypto world continues to grow, there is still great potential for the expansion of stablecoins. Stablecoins that are robust, versatile, and transparent have the opportunity to capture this vast market.
 
-After the outbreak of the pandemic, driven by the ultra-loose monetary policy, the US inflation rate reached a 40-year high at the end of 2021, and prices continued to rise, leading to a continuous decline in the purchasing power of the US dollar.&#x20;
-
 Recently, a stable currency bill H.R.2435 pointed out that since 2000, the purchasing power of the Federal Reserve Note has dropped by more than 40%, and since the passage of the Federal Reserve Act in 1913, its purchasing power has declined by 97%.&#x20;
 
 As the US dollar stablecoins are anchored to the US dollar at a 1:1 ratio, the same problem exists in the USD stablecoins, leading to the distorted measurement of the value of digital assets using stablecoins - the US dollar value of digital assets may rise, but the purchasing power for stablecoins does not increase synchronously.&#x20;
