@@ -1,10 +1,13 @@
 ---
-description: About Our Product
+description: Floatcoin 101
 ---
 
 # 👀 Overview
 
-On the last page, we talked about the significance of an inflation-resistant token (flatcoin). We believe that a flatcoin can provide true value stability to users, as well as be applied to wages, unconditional basic income, and more.
+In our [whitepaper](../), we talked about the significance of an inflation-resistant token (flatcoin). We believe that a flatcoin can provide true value stability to users, as well as be applied to wages, unconditional basic income, and more. For example:
+
+* When users receive wage in Floatcoin, they no longer need to choose a investment method to retain the value
+* Whats more?&#x20;
 
 Our product is secured by two parties:
 

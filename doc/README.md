@@ -28,7 +28,7 @@ Based on this fact, we propose Floatcoin, a protocol-native anti-inflation stabl
 
 ## Floatcoin
 
-The initial price of $FLOAT is 1 US dollar, and the anchor price is adjusted daily based on the inflation rate provided by [Truflation](getting-started/cpi-calculation.md). For example, if Truflation's US inflation rate is 3.96% and has decreased by -0.01% compared to the previous day, then the $FLOAT anchor price will be adjusted to 1\*(1-0.01%)=0.9999 accordingly. The advantage of daily adjustments is that price changes are smooth. In the long run, $FLOAT holders can ensure the purchasing power of their assets in the real world, and the $FLOAT price of crypto assets can also accurately reflect their value changes without inflation.
+The initial price of $FLOAT is 1 US dollar, and the anchor price is adjusted daily based on the inflation rate provided by [Truflation](getting-started/truflation.md). For example, if Truflation's US inflation rate is 3.96% and has decreased by -0.01% compared to the previous day, then the $FLOAT anchor price will be adjusted to 1\*(1-0.01%)=0.9999 accordingly. The advantage of daily adjustments is that price changes are smooth. In the long run, $FLOAT holders can ensure the purchasing power of their assets in the real world, and the $FLOAT price of crypto assets can also accurately reflect their value changes without inflation.
 
 ## The Future of Floatcoin
 
